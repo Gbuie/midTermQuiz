@@ -1,0 +1,31 @@
+Fill in the Blank (10 Questions)
+
+1. In JavaScript, the method __________ is used to add one or more elements to the end of an array. 
+Answer:
+
+2. The keyword __________ is used to declare a variable that cannot be reassigned.
+Answer:
+
+3. The __________ operator is used to increment a variable by 1.
+Answer:
+
+4. To remove the last element of an array, you can use the __________ method.
+Answer:
+
+5. The method __________ is used to split a string into an array of substrings.
+Answer:
+
+6. In JavaScript, an object is a collection of __________ and __________.
+Answer:
+
+7. To access the value of a property in an object using a variable that contains the property name, you must use __________ notation.
+Answer:
+
+8. The __________ loop is used to iterate over the values of an iterable object like an array or string.
+Answer:
+
+9. The __________ method returns an array containing all the keys of an object.
+Answer:
+
+10. The __________ method adds one or more elements to the beginning of an array.
+Answer:
