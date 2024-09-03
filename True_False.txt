@@ -1,31 +1,31 @@
 True/False (10 Questions)
 
 1. An array in JavaScript can store multiple types of data, including numbers, strings, and objects.
-Answer: 
+Answer: True
 
 2. The const keyword allows the value of a variable to be changed after it is initialized.
-Answer:
+Answer: False
 
 3. Arrow functions in JavaScript do not have their own this context.
-Answer:
+Answer: True
 
 4. The for...of loop is best used for iterating over the properties of an object.
-Answer:
+Answer: False
 
 5. Dot notation can be used to access any property of an object, including those with spaces or special characters in their names.
-Answer:
+Answer: False
 
 6. The splice() method modifies the original array by adding, removing, or replacing elements.
-Answer:
+Answer: True
 
 7. The length property of an array returns the highest index value in the array.
-Answer:
+Answer: False
 
 8. Template literals allow for embedding expressions and variables directly into strings using ${}.
-Answer:
+Answer: True
 
 9. In a while loop, the condition is checked after the code block has been executed.
-Answer:
+Answer: False
 
 10. Bracket notation must be used to access a property of an object if the property name is stored in a variable.
-Answer:
+Answer:True

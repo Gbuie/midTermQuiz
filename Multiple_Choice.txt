@@ -6,7 +6,7 @@ a) function myFunction {}
 b) function myFunction() {}
 c) function: myFunction() {}
 d) myFunction = function {}
-Answer:
+Answer:b
 
 2. Which of the following array methods is used to add elements to the beginning of an array?
 
@@ -14,7 +14,7 @@ a) push()
 b) pop()
 c) shift()
 d) unshift()
-Answer:
+Answer:c
 
 3. How do you access the value "John" from the following object?
 let person = { name: "John", age: 30 };
@@ -23,7 +23,7 @@ a) person.name
 b) person["John"]
 c) person["age"]
 d) person.name("John")
-Answer:
+Answer: a
 
 4. Which loop is best suited for iterating over all elements in an array?
 
@@ -31,7 +31,7 @@ a) for loop
 b) for...in loop
 c) while loop
 d) for...of loop
-Answer:
+Answer:d
 
 5. What will the following code output?
 let fruits = ["apple", "banana", "cherry"];
@@ -41,7 +41,7 @@ a) "apple"
 b) "banana"
 c) "cherry"
 d) undefined
-Answer:
+Answer:b
 
 6. Which of the following is a feature of template literals?
 
@@ -49,7 +49,7 @@ a) Can only be used with single quotes
 b) Allow multi-line strings without escape characters
 c) Do not allow variable interpolation
 d) Are limited to only one line
-Answer:
+Answer:b
 
 7. Which of the following methods returns the keys of an object as an array?
 
@@ -57,7 +57,7 @@ a) Object.values()
 b) Object.entries()
 c) Object.keys()
 d) Object.getKeys()
-Answer:
+Answer:c
 
 8. In JavaScript, what does the push() method do?
 
@@ -65,7 +65,7 @@ a) Removes the first element of an array
 b) Adds one or more elements to the end of an array
 c) Removes the last element of an array
 d) Adds one or more elements to the beginning of an array
-Answer:
+Answer:b
 
 9. What will the following code output?
 let counter = 5;
@@ -76,7 +76,7 @@ a) 4
 b) 5
 c) 6
 d) undefined
-Answer:
+Answer:c
 
 10. What is the result of the following code?
 let numbers = [1, 2, 3];
@@ -87,7 +87,7 @@ a) [1, 3]
 b) [2, 3]
 c) [1, 2]
 d) [1, 2, 3]
-Answer:
+Answer:a
 
 11. How do you define a constant variable in JavaScript?
 
@@ -95,7 +95,7 @@ a) let constantName = value;
 b) var constantName = value;
 c) const constantName = value;
 d) function constantName = value;
-Answer:
+Answer:c
 
 12. What will be the output of the following code?
 const multiply = (a, b) => a * b;
@@ -105,7 +105,7 @@ a) 5
 b) 6
 c) 9
 d) undefined
-Answer:
+Answer: b
 
 13. Which method is used to remove the first element of an array?
 
@@ -113,7 +113,7 @@ a) pop()
 b) shift()
 c) splice()
 d) unshift()
-Answer:
+Answer: b
 
 14. What will the following code output?
 let sentence = "JavaScript is fun";
@@ -124,7 +124,7 @@ a) 1
 b) 2
 c) 3
 d) 4
-Answer:
+Answer:c
 
 15. Which of the following statements is true about for...in loops?
 
@@ -132,7 +132,7 @@ a) It iterates over the values of an array.
 b) It iterates over the properties of an object.
 c) It only iterates over own properties, not inherited ones.
 d) It iterates over the indexes of an array.
-Answer:
+Answer:b
 
 16. What is the correct way to define a function using arrow function syntax?
 
@@ -140,7 +140,7 @@ a) const myFunction = (a, b) { return a + b; }
 b) const myFunction = (a, b) => { return a + b; }
 c) const myFunction = (a, b) => a + b;
 d) Both b) and c) are correct
-Answer:
+Answer:d
 
 17. What does the indexOf() method return if the element is not found in the array?
 
@@ -148,7 +148,7 @@ a) 0
 b) null
 c) -1
 d) undefined
-Answer:
+Answer: c
 
 18. Which of the following is not a valid array method in JavaScript?
 
@@ -167,7 +167,7 @@ a) 10
 b) 11
 c) 9
 d) undefined
-Answer:
+Answer: a
 
 20. Which method creates a new array by extracting a portion of an existing array?
 
@@ -176,3 +176,4 @@ b) slice()
 c) split()
 d) join()
 Answer:
+b
